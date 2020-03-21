@@ -12,10 +12,10 @@ a {
 img {
     max-width: 100%;
 }
-.logo {
+/* .logo {
     width: 210px;
     margin-top: 14px;
-}
+} */
 .page-header {
     display: flex;
     justify-content: space-between;
@@ -24,7 +24,7 @@ img {
 header h1 {
     text-align: center;
     font-size: 16px;
-    letter-spacing: 0;
+    /* letter-spacing: 0; */
     line-height: 1.1;
     margin-top: 20px;
 }
@@ -366,7 +366,7 @@ footer p {
 
 
 
-   
+
 
 
 
@@ -388,7 +388,7 @@ footer p {
         transform: initial;
     }
 
-  
+
     .item-container {
         flex-direction: column;
         text-align: center;
@@ -437,4 +437,4 @@ footer p {
     footer .nav-main{
         display: none;
     }
-}
+} 
